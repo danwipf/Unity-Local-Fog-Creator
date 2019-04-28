@@ -2,7 +2,7 @@
 
 A simple Tool for creating Local Fog. => uses Unitys Particle System. Free to use for any Project.
 
-
+![alt text](https://github.com/danwipf/Unity-Local-Fog-Creator/blob/master/Docs/FogExampleSmall1.png)
 
 ***How do i Create Fog with this tool?***
 
@@ -12,3 +12,4 @@ A simple Tool for creating Local Fog. => uses Unitys Particle System. Free to us
 
 
 *Feedback / Improvments are wellcome on issue tracker 1 & 2*
+![alt text](https://github.com/danwipf/Unity-Local-Fog-Creator/blob/master/Docs/FogExampleSmall0.png)
